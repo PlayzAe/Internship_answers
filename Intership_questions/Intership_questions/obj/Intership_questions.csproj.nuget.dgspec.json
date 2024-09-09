@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moses\\Desktop\\Coding\\Projects\\Internship\\Intership_questions\\Intership_questions\\Intership_questions.csproj": {}
+    "C:\\Users\\Moses\\Documents\\GitHub\\Internship_answers\\Intership_questions\\Intership_questions\\Intership_questions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moses\\Desktop\\Coding\\Projects\\Internship\\Intership_questions\\Intership_questions\\Intership_questions.csproj": {
+    "C:\\Users\\Moses\\Documents\\GitHub\\Internship_answers\\Intership_questions\\Intership_questions\\Intership_questions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moses\\Desktop\\Coding\\Projects\\Internship\\Intership_questions\\Intership_questions\\Intership_questions.csproj",
+        "projectUniqueName": "C:\\Users\\Moses\\Documents\\GitHub\\Internship_answers\\Intership_questions\\Intership_questions\\Intership_questions.csproj",
         "projectName": "Intership_questions",
-        "projectPath": "C:\\Users\\Moses\\Desktop\\Coding\\Projects\\Internship\\Intership_questions\\Intership_questions\\Intership_questions.csproj",
+        "projectPath": "C:\\Users\\Moses\\Documents\\GitHub\\Internship_answers\\Intership_questions\\Intership_questions\\Intership_questions.csproj",
         "packagesPath": "C:\\Users\\Moses\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moses\\Desktop\\Coding\\Projects\\Internship\\Intership_questions\\Intership_questions\\obj\\",
+        "outputPath": "C:\\Users\\Moses\\Documents\\GitHub\\Internship_answers\\Intership_questions\\Intership_questions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
