@@ -1,0 +1,14 @@
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\bin\Debug\net8.0\Intership_questions.exe
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\bin\Debug\net8.0\Intership_questions.deps.json
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\bin\Debug\net8.0\Intership_questions.runtimeconfig.json
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\bin\Debug\net8.0\Intership_questions.dll
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\bin\Debug\net8.0\Intership_questions.pdb
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\obj\Debug\net8.0\Intership_questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\obj\Debug\net8.0\Intership_questions.AssemblyInfoInputs.cache
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\obj\Debug\net8.0\Intership_questions.AssemblyInfo.cs
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\obj\Debug\net8.0\Intership_questions.csproj.CoreCompileInputs.cache
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\obj\Debug\net8.0\Intership_questions.dll
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\obj\Debug\net8.0\refint\Intership_questions.dll
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\obj\Debug\net8.0\Intership_questions.pdb
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\obj\Debug\net8.0\Intership_questions.genruntimeconfig.cache
+C:\Users\Moses\Desktop\Coding\Projects\Internship\Intership_questions\Intership_questions\obj\Debug\net8.0\ref\Intership_questions.dll

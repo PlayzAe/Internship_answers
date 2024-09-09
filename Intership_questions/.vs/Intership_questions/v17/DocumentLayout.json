@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Moses\\Desktop\\Coding\\Projects\\Internship\\Intership_questions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5582824-4ADD-4D6A-A308-301F28225A48}|Intership_questions\\Intership_questions.csproj|c:\\users\\moses\\desktop\\coding\\projects\\internship\\intership_questions\\intership_questions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5582824-4ADD-4D6A-A308-301F28225A48}|Intership_questions\\Intership_questions.csproj|solutionrelative:intership_questions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Moses\\Desktop\\Coding\\Projects\\Internship\\Intership_questions\\Intership_questions\\Program.cs",
+              "RelativeDocumentMoniker": "Intership_questions\\Program.cs",
+              "ToolTip": "C:\\Users\\Moses\\Desktop\\Coding\\Projects\\Internship\\Intership_questions\\Intership_questions\\Program.cs",
+              "RelativeToolTip": "Intership_questions\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:59:45.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
