@@ -1,10 +1,4 @@
-﻿// TASK 1
-// A string variable named name with the value "John Doe"
-// An integer variable named age with the value 25
-// A boolean variable named isAdmin with the value true
-// Print the values of these variables to the console.
-
-using System;
+﻿using System;
 
 class Program
 {
